@@ -1,0 +1,10 @@
+sk:
+  hi: Vitajte!
+  mail_number:
+    zero: Žiadny email.
+    one: Máte nový email.
+    few: Máte %{count} emaily.
+    many: Máte %{count} emailov.
+
+  # If you need to print character %, you need to write it twice
+  free_sentence: 25%% mladých ľudí sú mladí ľudia.

@@ -1,0 +1,10 @@
+en:
+  hi: Welcome!
+  mail_number:
+    zero: You do not have any mail.
+    one: You have a new mail.
+    few: You only have %{count} mails.
+    many: You have %{count} new mails.
+
+  # If you need to print character %, you need to write it twice
+  free_sentence: 25%% of people are young people.

@@ -1,0 +1,20 @@
+name: demo_python_i18n
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2021.1.19
+  - certifi=2020.12.5
+  - openssl=1.1.1j
+  - pip=21.0.1
+  - python=3.9.2
+  - setuptools=52.0.0
+  - sqlite=3.33.0
+  - tzdata=2020f
+  - vc=14.2
+  - vs2015_runtime=14.27.29016
+  - wheel=0.36.2
+  - wincertstore=0.2
+  - zlib=1.2.11
+  - pip:
+    - python-i18n==0.3.9
+prefix: C:\Users\stesim\anaconda3\envs\demo_python_i18n
